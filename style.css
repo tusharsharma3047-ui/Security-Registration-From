@@ -1,0 +1,32 @@
+
+
+body {
+    background-color: rgb(36, 35, 35);
+    color: white;
+}
+h1{
+    margin-bottom: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.form input {
+    margin: 2px 0px 0px 555px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.form b {
+    margin: 2px 0px 0px 555px;
+}
+
+.form button{
+    margin: 2px 0px 0px 555px;
+
+}
+.form .re{
+    margin: 2px 0px 0px 0px;
+
+}
